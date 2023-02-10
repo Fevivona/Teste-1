@@ -1,6 +1,9 @@
-# README
+# Readme
 
 Repositório criado para testar as funcionalidades do GIT
+
+# Teste para criação da 2 Branch "teste-2-Branch
+
 
 # Instruções de Uso
 
