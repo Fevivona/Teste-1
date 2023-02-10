@@ -1,6 +1,6 @@
-# Teste-1
+# README
 
-Repositório criado para testar
+Repositório criado para testar as funcionalidades do GIT
 
 # Instruções de Uso
 
@@ -10,3 +10,4 @@ Repositório criado para testar
 
 # Contato
 e-mail: fevivona@hotmail.com
+tel: (85) 9 98249981
